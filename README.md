@@ -27,7 +27,7 @@ plt.show()
 
 ### Results  
 
-![Visualization](2_Project\Images\likelihood_image.png)  
+![Visualization](2_Project/Images/likelihood_image.png)  
 
 ### Insights  
 
@@ -69,4 +69,4 @@ plt.show()
 
 ### Results  
 
-![Visualization](2_Project\Images\trend.png)   
+![Visualization](2_Project/Images/trend.png)   
